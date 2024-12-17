@@ -31,8 +31,7 @@
 ## Інструкції з побудови та запуску
 
 ### 1. Клонуйте репозиторій собі на комп'ютер
-##
-<tab><tab>git clone https://github.com/olehskomorokha/java-advanced-lab2.git
+<tab>git clone https://github.com/olehskomorokha/java-advanced-lab2.git<tab>
   
 ### 2. Запуск проекту: 
   Запустіть головний клас Main
